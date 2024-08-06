@@ -58,6 +58,6 @@ Top 10 Customers By Profit
 - Show additional information like rank, number of orders, current sales, current profit and the last order date.
 <img width="1389" alt="image" src="https://github.com/user-attachments/assets/0c3d89c9-24e9-49cd-93b6-3a06af136c3e">
 
-Click [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SalesCustomerDashboard_17169762301350/SlaesDashboard) to view the whole dashboard.
+### Click [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SalesCustomerDashboard_17169762301350/SlaesDashboard) to view the whole dashboard.
 
 
