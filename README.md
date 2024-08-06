@@ -4,6 +4,10 @@
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 
 
+### Data Sctructure
+<img width="552" alt="image" src="https://github.com/user-attachments/assets/b532c27e-aef3-417d-9200-5e3f9cdb27e2">
+
+
 ### Sales Dashboard | Requirements
 #### Dashboard Purpose
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
@@ -28,3 +32,6 @@ Weekly Trends for Sales & Profit
 - Display the average weekly values.
 
 - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+<img width="1390" alt="image" src="https://github.com/user-attachments/assets/677c0128-7e93-4025-8ed7-9cf9644220ce">
+
