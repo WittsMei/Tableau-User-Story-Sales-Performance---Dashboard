@@ -71,6 +71,6 @@ Top 10 Customers By Profit
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
 
-##### To access the overall dashboard, please click [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SalesCustomerDashboard_17169762301350/SlaesDashboard).
+To access the overall dashboard, please click [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/SalesCustomerDashboard_17169762301350/SlaesDashboard).
 
 
